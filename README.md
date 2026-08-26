@@ -1,4 +1,4 @@
-# MeshCommanderMax v4
+# MeshCommanderMax 
 
 A standalone, framebuffer-based Reticulum mesh communicator for handheld Linux devices (R36S / GO-Super Gamepad compatible) paired with a Heltec V3 RNode LoRa interface. Operates directly via `/dev/fb0` without requiring an X server.
 
