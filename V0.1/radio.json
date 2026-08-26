@@ -1,0 +1,7 @@
+{
+  "frequency": 915000000,
+  "bandwidth": 125000,
+  "txpower": 7,
+  "spreadingfactor": 8,
+  "codingrate": 5
+}
