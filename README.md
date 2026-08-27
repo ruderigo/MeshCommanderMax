@@ -2,6 +2,8 @@
 
 A standalone, framebuffer-based Reticulum mesh communicator for handheld Linux devices (R36S / GO-Super Gamepad compatible) paired with a Heltec V3 RNode LoRa interface. Operates directly via `/dev/fb0` without requiring an X server.
 
+<img width="748" height="748" alt="1000016543" src="https://github.com/user-attachments/assets/65a8d9bf-1960-4663-b6fc-9104101792a7" />
+
 ---
 
 ## Features
