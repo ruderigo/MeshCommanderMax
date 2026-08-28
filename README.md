@@ -29,7 +29,7 @@ A standalone, framebuffer-based Reticulum mesh communicator for handheld Linux d
 
 ---
 
-## Radio Configuration (`radio.json`)
+## Radio Configuration (`radio.json`) - for North America (see your local laws for frequency availability)
 
 The node uses `radio.json` as its single source of truth for the physical LoRa transceiver setup:
 
